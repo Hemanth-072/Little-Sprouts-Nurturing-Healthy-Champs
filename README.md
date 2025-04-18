@@ -118,7 +118,6 @@ Final: Presentation (docs/Final Presentation - little sprouts nurturing he
 │   ├── Step 5 Work Plan Structure.pdf
 │   ├── Step 6 Project Communication Plan.pdf
 │   └── Final Presentation - little sprouts nurturing healthy champs.pptx
-├── LICENSE                        # MIT License
 └── README.md                      # This file
 
 🔍 How to Review
