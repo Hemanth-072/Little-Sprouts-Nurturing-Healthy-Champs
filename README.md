@@ -1,15 +1,14 @@
 # Little-Sprouts-Nurturing-Healthy-Champs
 
 
-Simulated Agile Project Management | Jan 2024 – Apr 2024
+Simulated Agile Project Management
 
  
-
  Project Overview
 
 A hands-on simulation of Agile project management to design a pediatric obesity prevention mobile application. Managed a $27,500 budget across initiation, planning, execution, monitoring, and closure phases—applying iterative sprints, risk analysis, stakeholder engagement, and cross-functional collaboration.
 
-Course: INFO‑B‑581: Health Informatics Standards & TerminologyDuration: Jan 2024 – Apr 2024Role: Project Manager (simulated)
+Course: INFO‑B‑581: Health Informatics Standards & Terminology | Role: Project Manager (simulated)
 
  Table of Contents
 
